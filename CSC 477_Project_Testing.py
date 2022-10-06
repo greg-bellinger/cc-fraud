@@ -3,6 +3,11 @@ import numpy as np
 from scipy import stats
 from sklearn import datasets
 import random
+#--------------------------------------------------------------------- 
+#  This is just a basic file to work on getting the .csv data
+#  into Python, and doing some manipulations. Mostly just the
+#  basic statistical data we practiced in class so far. 
+#---------------------------------------------------------------------
 
 #Allows the terminal to display up to 8 columns. Pandas automatically
 #truncates the columns / rows unless a max is stated
